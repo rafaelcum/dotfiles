@@ -8,4 +8,4 @@ Some of my config files may be useful to people on their way to making and using
 
 ## Web
 
-`MLComments.js` é um bookmark/favorito que pode ser adicionado no navegador para abrir a página de comentários de um determinado capítulo de qualquer obra presente no site [Manga Livre](https://mangalivre.net). Para adicionar o script, basta clicar com botão direito na barra de favoritos, adicionar um novo favorito com qualquer nome e copiar todo o código do arquivo para o endereço do favorito. Agora em qualquer obra você pode voltar a ler seus comentários favoritos!
+`MLComments.js` é um bookmark/favorito que pode ser adicionado no navegador para abrir a página de comentários de um determinado capítulo de qualquer obra presente no site [Manga Livre](https://mangalivre.net). Para adicionar o script, basta clicar com botão direito na barra de favoritos, adicionar um novo favorito com qualquer nome e copiar todo o código do arquivo para o endereço do favorito. Agora em qualquer obra você pode voltar a ler seus comentários favoritos! [Neste link](https://youtu.be/17VNA6RriHg) você pode ver o processo levado para criação desse código.
